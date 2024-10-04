@@ -3,7 +3,7 @@ This is tool was made for educational purposes and proof of concepts. I'm not ac
 • Discord
 Yes, we have an Official Phoenix Discord server ! https://discord.gg/Q8nnqbz9G2 ! Join For more Tools
 
-![Phoenix Nuker](./phoenixnukerv1/phoenixnuker.png)
+![Phoenix Nuker](./phoenixnukerv1/Phoenix-nuker.png)
 
 
 Bot Setup
